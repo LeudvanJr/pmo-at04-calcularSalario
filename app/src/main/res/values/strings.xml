@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Calcular Salário</string>
+    <string name="autor">Leudvan Guedes</string>
+    <string name="ra">1110482313027</string>
+    <string name="tipoProfessor">Selecione o tipo de Professor</string>
+    <string name="professorT">Professor Titular</string>
+        <string name="salario">Salário</string>
+        <string name="tempoNaInstituicao">Há quantos anos está na Instituição?</string>
+    <string name="professorH">Professor Horista</string>
+        <string name="valorHoraAula">Valor da Hora-aula</string>
+        <string name="qtdHoras">Quantidade de Horas trabalhadas</string>
+    <string name="calcular">Calcular</string>
+    <string name="moeda">R$</string>
+</resources>
